@@ -47,3 +47,10 @@ ttmkfdir %{buildroot}%{_xfontdir}/TTF/liberastika > %{buildroot}%{_xfontdir}/TTF
 
 
 
+
+
+%changelog
+* Fri Jul 22 2011 Sergey Zhemoitel <serg@mandriva.org> 1.1.3-1mdv2012.0
++ Revision: 690986
+- imported package fonts-ttf-liberastika
+
