@@ -13,7 +13,8 @@ BuildArch: noarch
 BuildRequires: freetype-tools
 
 %description
-The font based on Liberation Sans with some cyrillic letters modified. It is metrically incompatible with Arial fonts.
+The font based on Liberation Sans with some cyrillic letters modified. It is
+metrically incompatible with Arial fonts.
 
 %prep
 %setup -q -c -n %{pkgname}-%{version}
