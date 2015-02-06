@@ -3,7 +3,7 @@
 Summary: Sans fonts derived from Liberation Sans
 Name: fonts-ttf-liberastika
 Version: 1.1.3
-Release: 2
+Release: 3
 License: GPLv2 with exception
 Group: System/Fonts/True type
 URL: http://code.google.com/p/liberastika/
