@@ -6,7 +6,7 @@ Version: 1.1.3
 Release: 3
 License: GPLv2 with exception
 Group: System/Fonts/True type
-URL: http://code.google.com/p/liberastika/
+URL: https://code.google.com/p/liberastika/
 Source0: http://liberastika.googlecode.com/files/%{pkgname}-%{version}.tar.xz
 BuildArch: noarch
 BuildRequires: freetype-tools
